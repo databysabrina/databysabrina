@@ -20,7 +20,7 @@
 - Experimentos com visualizações e insights
 
 ## 🤝 Vamos nos conectar?
-[![LinkedIn](www.linkedin.com/in/sabrina-da-silva-b4b333172)]\
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-da-silva-b4b333172)\
 📧 contact.sabrinads@email.com
 
 
