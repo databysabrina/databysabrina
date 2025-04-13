@@ -3,11 +3,11 @@
 🎓 Formada em Matemática, atualmente em transição de carreira para a área de tecnologia — com foco em **Análise de Dados** e muito entusiasmo por aprender coisas novas!
 
 ## 🚀 O que estou estudando:
-- 📊 **Análise de Dados**
-- 🐍 **Python** e suas bibliotecas (Pandas, NumPy, Matplotlib)
-- 📈 **R para análise estatística**
-- 🗃️ **SQL** para manipulação de dados
-- 🧠 Lógica de programação e estruturação de projetos
+- **Análise de Dados**
+- **Python** e suas bibliotecas (Pandas, NumPy, Matplotlib)
+- **R para análise estatística**
+- **SQL** para manipulação de dados
+- Lógica de programação e estruturação de projetos
   
 ## 🎯 Meus objetivos:
 - Aplicar minha bagagem matemática em projetos de dados
