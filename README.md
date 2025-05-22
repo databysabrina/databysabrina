@@ -7,6 +7,7 @@
 - **Python** e suas bibliotecas (Pandas, NumPy, Matplotlib)
 - **R para análise estatística**
 - **SQL** para manipulação de dados
+- **Power BI e Tableau** para visualização
 - Lógica de programação e estruturação de projetos
   
 ## 🎯 Meus objetivos:
