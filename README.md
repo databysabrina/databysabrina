@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Sabrina!
+# 👋 Olá, meu nome é Sabrina!
 
 🎓 Formada em Matemática, atualmente em transição de carreira para a área de tecnologia — com foco em **Análise de Dados** e muito entusiasmo por aprender coisas novas!
 
